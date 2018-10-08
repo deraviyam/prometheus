@@ -1,4 +1,4 @@
-# Running Prometheus on Kubernetes
+# Prometheus on Kubernetes
 
 # Install Helm
 ```
